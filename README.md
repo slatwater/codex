@@ -1,5 +1,6 @@
 # Test Workspace
 
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Version](https://img.shields.io/badge/version-v3.0.0-blue)
 
 ## Overview
